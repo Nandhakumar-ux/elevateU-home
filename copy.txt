@@ -1,0 +1,138 @@
+PROJECT: ElevateU Website Copy
+
+HEADER
+
+Logo: ElevateU
+Menu:
+- About Us
+- Careers
+- Contact
+
+
+HERO SECTION
+
+Headline:
+Training non-negotiable talent businesses are desperate to hire.
+
+Subheadline:
+Sales-first. Practical skills. Real career outcomes.
+
+Description:
+We train people to solve real business problems — starting with sales.
+Live training, proven systems, and execution that companies actually value.
+
+Buttons:
+- Apply to Train
+- Talk to Us
+
+
+TRUSTED BY
+
+Title:
+Trusted By
+
+Description:
+Chosen by founders, sales leaders, and fast-growing teams who need talent that performs from day one.
+
+Media:
+3 auto-scrolling images of partnerships and MOUs
+
+
+WHAT WE DO
+
+We are an ed-tech startup focused on building job-ready talent for high-demand business roles.
+
+Our current focus is Sales — because revenue is the lifeline of every business, and capable sales talent is consistently scarce.
+
+No theory-heavy lectures.
+No certificate-only courses.
+Only hands-on skills businesses actively hire for.
+
+
+WHAT YOU LEARN (SALES TRACK)
+
+- Sales mindset, confidence, and ownership
+- Clear business communication
+- Customer psychology and buying behaviour
+- Prospecting and lead generation systems
+- Pitching, negotiation, and closing
+- Relationship building and retention
+
+Everything is taught through real scenarios, practice, and execution — not slides.
+
+
+HOW THIS IS DIFFERENT
+
+Most programs teach what sales is.
+We train you on how sales actually works inside a business.
+
+You don’t just learn concepts.
+You learn how to perform, adapt, and deliver results.
+
+
+WHY WE EXIST
+
+Businesses don’t struggle to find people.
+They struggle to find capable, reliable performers.
+
+We close that gap by training talent to be:
+
+- Immediately useful in real roles
+- Commercially aware from day one
+- Accountable for outcomes, not effort
+
+
+WHO THIS IS FOR
+
+- Freshers who want real, employable business skills
+- Professionals switching or upgrading their careers
+- People who care about outcomes, not just content
+
+If you want to be valuable to a business — not replaceable — this is for you.
+
+
+CAREERS
+
+We’re building a team that values clarity, ownership, and execution.
+
+If you want to:
+
+- Work close to real business problems
+- Learn faster than in traditional roles
+- Build something meaningful from the ground up
+
+Send us your details.
+
+We hire for intent, discipline, and mindset — before resumes.
+
+Button:
+View Open Roles
+
+
+ABOUT US
+
+We’re not a traditional institute.
+We’re a talent-training company built around business needs.
+
+Our focus is simple:
+Train people → make them employable → help businesses grow.
+
+
+CONTACT
+
+Have questions?
+
+Want to train with us, hire talent, or collaborate?
+
+Reach out.
+
+We respond clearly and directly.
+
+
+FOOTER
+
+Copyright © ElevateU
+Links:
+- About
+- Careers
+- Contact
